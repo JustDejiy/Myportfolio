@@ -551,6 +551,10 @@ h3.my-profession{
     color: #ffffff;
 }
 
+.service .service-item .service-item-inner h4,p{
+    color: var(--text-black-900);
+}
+
 /*portfolio*/
 .portfolio .container{
     padding-bottom: 40px;
